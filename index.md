@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Welcome to Jayaram's blog
 
-I'm glad you are here. I plan to talk about ...
+I'm a Technical Content Writer at GeeksForGeeks. I'm also a Web Developer at Script Foundation. You can reach me at:jayaramsingh1999@gmail.com.
